@@ -1,7 +1,7 @@
 ## Read impedance spectroscopy datfile
 This function reads solatron impedance spectroscopy .dat files. It works
 for the files I have tried. I do not know if it will do so accurately,
-or even successfully for your data.
+or even successfully, for your data.
 
 ## License
 MIT License
